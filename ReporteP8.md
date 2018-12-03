@@ -245,7 +245,15 @@ namespace Práctica8
 Prueba
 
 <p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/38449287/49362035-32f7c180-f6a3-11e8-8952-40b67fd74b3d.JPG">
+  <img width="400" height="250" src="https://user-images.githubusercontent.com/38449287/49362035-32f7c180-f6a3-11e8-8952-40b67fd74b3d.JPG">
+</p>
+
+<p align="center">
+  <img width="400" height="250" src="https://user-images.githubusercontent.com/38449287/49362055-44d96480-f6a3-11e8-88bc-12fc9d3792ef.JPG">
+</p>
+
+<p align="center">
+  <img width="400" height="250" src="https://user-images.githubusercontent.com/38449287/49362059-4c990900-f6a3-11e8-933c-e13beaa688a2.JPG">
 </p>
 ---
 
