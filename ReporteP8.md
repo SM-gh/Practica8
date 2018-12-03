@@ -255,6 +255,7 @@ Prueba
 <p align="center">
   <img width="400" height="250" src="https://user-images.githubusercontent.com/38449287/49362059-4c990900-f6a3-11e8-933c-e13beaa688a2.JPG">
 </p>
+
 ---
 
 6. Bibliografía  
