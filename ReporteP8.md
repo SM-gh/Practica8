@@ -242,7 +242,13 @@ namespace Práctica8
 
 ```
 ---
- 
+Prueba
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/38449287/49362035-32f7c180-f6a3-11e8-8952-40b67fd74b3d.JPG">
+</p>
+---
+
 6. Bibliografía  
  
 * CEBALLOS SIERRA, Francisco Javier. Microsoft C#. Curso de programación. México, Alfaomega, 2007   
